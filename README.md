@@ -1,2 +1,2 @@
-#CRUD_MYSQL \n
+#CRUD_MYSQL /n
 Tạo, Đọc, Cập Nhật, Xoá Mysql
