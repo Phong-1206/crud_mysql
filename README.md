@@ -1,1 +1,2 @@
-# crud_mysql
+#CRUD_MYSQL
+Tạo, Đọc, Cập Nhật, Xoá Mysql
